@@ -1,4 +1,4 @@
-# Syslog Log Analysis on Linux Server
+# [LAB Excercise] Syslog Log Analysis on Linux Server
 ![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (2)](https://github.com/0xrajneesh/Log-Analysis-Projects-for-Beginners/assets/40385860/cf676329-25c6-4c93-8cf6-9bcd7c37b317)
 
 
