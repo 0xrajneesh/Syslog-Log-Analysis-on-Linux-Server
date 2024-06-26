@@ -11,7 +11,7 @@ In this project, students will learn the basics of syslog analysis on Linux syst
 - A Linux machine (preferably Ubuntu)
 
 ## Lab Set-up and Tools
-- Ubuntu 20.04 or later (or any Linux distribution with syslog configured)
+- [Ubuntu 22.04](https://releases.ubuntu.com/jammy/) or later (or any Linux distribution with syslog configured)
 - Access to syslog files (typically located in `/var/log/`)
 
 ## Exercises
